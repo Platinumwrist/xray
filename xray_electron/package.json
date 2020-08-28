@@ -9,7 +9,7 @@
   "dependencies": {
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
-    "react-dom": "^16.2.0",
+    "react-dom": "^16.2.1",
     "styletron-client": "^3.0.4",
     "styletron-react": "^3.0.4",
     "xray": "../xray_node"
